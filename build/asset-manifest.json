@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c835559.css",
+    "main.js": "/static/js/main.e2a15587.js",
+    "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
+    "static/media/react-logo.png": "/static/media/react-logo.7a1a95b3aba004e72072.png",
+    "static/media/React.jpg": "/static/media/React.623440ab9e9f1342b50b.jpg",
+    "static/media/service-fullstack.jpg": "/static/media/service-fullstack.b9e4e6c17a88127a8cad.jpg",
+    "static/media/service-web.jpg": "/static/media/service-web.ecd6b4492756ae8db02c.jpg",
+    "static/media/about.jpg": "/static/media/about.45b7afefd859447a5920.jpg",
+    "static/media/service-mobile.jpg": "/static/media/service-mobile.e8b3f43c7758fd15a5c1.jpg",
+    "static/media/web-developer.png": "/static/media/web-developer.f39b2c28a8c9202ac706.png",
+    "static/media/Mobile-app.png": "/static/media/Mobile-app.e1b93bef34265da6fa77.png",
+    "static/media/full-stack.png": "/static/media/full-stack.f9d169e80e84e333a6d1.png",
+    "static/media/ui-ux.png": "/static/media/ui-ux.85f17326ff456f17de26.png",
+    "static/media/service-uiux.jfif": "/static/media/service-uiux.a3f3cc0f28158d789ef1.jfif",
+    "index.html": "/index.html",
+    "main.5c835559.css.map": "/static/css/main.5c835559.css.map",
+    "main.e2a15587.js.map": "/static/js/main.e2a15587.js.map",
+    "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c835559.css",
+    "static/js/main.e2a15587.js"
+  ]
+}
