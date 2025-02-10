@@ -39,7 +39,6 @@
       "react-app/jest"
     ]
   },
-    "webpack": "4.44.2"
   "browserslist": {
     "production": [
       ">0.2%",
